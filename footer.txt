@@ -1,2 +1,3 @@
 some NEW TEXT
-changes from <main>
+footer: changes from <main>
+
